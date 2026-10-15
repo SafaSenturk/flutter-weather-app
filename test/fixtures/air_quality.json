@@ -1,0 +1,1 @@
+{"latitude":41.0,"longitude":29.0,"generationtime_ms":0.3559589385986328,"utc_offset_seconds":0,"timezone":"GMT","timezone_abbreviation":"GMT","elevation":15.0,"current_units":{"time":"iso8601","interval":"seconds","european_aqi":"EAQI","pm2_5":"μg/m³","pm10":"μg/m³"},"current":{"time":"2026-10-15T20:00","interval":3600,"european_aqi":38,"pm2_5":13.9,"pm10":22.7}}
