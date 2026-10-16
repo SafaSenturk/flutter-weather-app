@@ -139,8 +139,8 @@ API entegrasyonlu bir uygulamaya mı ihtiyacın var (hava durumu, döviz, kendi 
 
 Bu uygulamadaki şu parçaları başka projelerde de kullanılabilsin diye **[Plugins](https://github.com/SafaSenturk/Plugins)** reposuna ekledim. Oradan erişip kendi projene kopyalayabilirsin:
 
-- **[flutter-weather-sky](https://github.com/SafaSenturk/Plugins/tree/main/flutter-weather-sky)**: hareketli gökyüzü, elle çizilmiş hava ikonları ve WMO kodları.
-- **[flutter-offline-cache](https://github.com/SafaSenturk/Plugins/tree/main/flutter-offline-cache)**: internet yokken son veriyi gösteren önce çevrimdışı önbellek.
+- **[flutter-weather-sky](https://github.com/SafaSenturk/Plugins/tree/main/mobile/flutter-weather-sky)**: hareketli gökyüzü, elle çizilmiş hava ikonları ve WMO kodları.
+- **[flutter-offline-cache](https://github.com/SafaSenturk/Plugins/tree/main/mobile/flutter-offline-cache)**: internet yokken son veriyi gösteren önce çevrimdışı önbellek.
 
 ---
 
@@ -234,8 +234,8 @@ Need an app connected to an API (weather, currency, your own REST service…)? *
 
 These parts of the app are available in the **[Plugins](https://github.com/SafaSenturk/Plugins)** repo, ready to copy into your own project:
 
-- **[flutter-weather-sky](https://github.com/SafaSenturk/Plugins/tree/main/flutter-weather-sky)**: the animated sky, hand-drawn weather icons and WMO codes.
-- **[flutter-offline-cache](https://github.com/SafaSenturk/Plugins/tree/main/flutter-offline-cache)**: the offline-first cache that shows the last data without a connection.
+- **[flutter-weather-sky](https://github.com/SafaSenturk/Plugins/tree/main/mobile/flutter-weather-sky)**: the animated sky, hand-drawn weather icons and WMO codes.
+- **[flutter-offline-cache](https://github.com/SafaSenturk/Plugins/tree/main/mobile/flutter-offline-cache)**: the offline-first cache that shows the last data without a connection.
 
 ---
 
